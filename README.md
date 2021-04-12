@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center" >
+<img src="https://imgur.com/mNgtg6y.png" height="280" width="280">
+</h1>
 
-<!--
-**leiteav/leiteav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my repository ✨
 
-Here are some ideas to get you started:
+- 🌱 Currently studying Systems Analysis and Development;
+- 🚀 Skills (*HTML5, CSS3, Javascript, Java and Vue.js*)
+- 🤔 Doubts, suggestions? <BR>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leiteav/)](https://www.linkedin.com/in/leitev/) 
+[![Gmail Badge](https://img.shields.io/badge/-arileitte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arileitte@gmail.com)](mailto:arileitte@gmail.com)
+<br>
+<br>
+<br>
+<a href="https://assets-ouch.icons8.com/free-download/85/72a8f5df-985d-4f5b-b7fd-d586f20e9757.png?filename=marginalia-web-programer.png" target="_blank"></a>
