@@ -5,7 +5,7 @@
 ## Welcome to my repository ✨
 
 - 🌱 Currently studying Systems Analysis and Development;
-- 🚀 Skills (*HTML5, CSS3, Javascript, Java and Vue.js*)
+- 🚀 Skills (*Javascript, Java and Vue.js*)
 - 🤔 Doubts, suggestions? <BR>
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leiteav/)](https://www.linkedin.com/in/leitev/) 
