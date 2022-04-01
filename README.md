@@ -2,10 +2,10 @@
 <img src="https://imgur.com/mNgtg6y.png" height="280" width="280">
 </h1>
 
-## Welcome to my repository ✨
+## Hello everybody! ✨
 
-- 🌱 Currently studying Systems Analysis and Development;
-- 🚀 Skills (*Javascript, Java and Vue.js*)
+- 🌱 Currently studing Systems Analysis and Development;
+- 🚀 Skills: Javascript, Vue.js, Ionic, Java and Spring;
 - 🤔 Doubts, suggestions? <BR>
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leiteav/)](https://www.linkedin.com/in/leitev/) 
