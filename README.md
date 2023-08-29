@@ -4,7 +4,7 @@
 
 ## Hello everybody! ✨
 
-- 🌱 Currently studing Systems Analysis and Development;
+- 🌱 Currently studing Java and AWS;
 - 🚀 Skills: Javascript, Vue.js, Java and Spring;
 - 🤔 Doubts, suggestions? <BR>
 
