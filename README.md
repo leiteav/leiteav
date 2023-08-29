@@ -5,7 +5,7 @@
 ## Hello everybody! ✨
 
 - 🌱 Currently studing Systems Analysis and Development;
-- 🚀 Skills: Javascript, Vue.js, Ionic, Java and Spring;
+- 🚀 Skills: Javascript, Vue.js, Java and Spring;
 - 🤔 Doubts, suggestions? <BR>
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leiteav/)](https://www.linkedin.com/in/leitev/) 
