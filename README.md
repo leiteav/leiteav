@@ -8,7 +8,7 @@
 - 🚀 Skills: Javascript, Vue.js, Java and Spring;
 - 🤔 Doubts, suggestions? <BR>
 
- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leiteav/)](https://www.linkedin.com/in/leitev/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leiteav/)](https://www.linkedin.com/in/leiteav/) 
 [![Gmail Badge](https://img.shields.io/badge/-arileitte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arileitte@gmail.com)](mailto:arileitte@gmail.com)
 <br>
 <br>
