@@ -1,5 +1,5 @@
 <h1 align="center" >
-<img src="https://imgur.com/mNgtg6y.png" height="280" width="280">
+<img src="https://imgur.com/mNgtg6y.png" height="120" width="120">
 </h1>
 
 ## Hello everybody! ✨
